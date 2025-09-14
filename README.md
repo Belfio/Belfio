@@ -6,16 +6,16 @@ Building the Operating System for live concerts using automation, AI, and data t
 ---
 
 ## 🔙 Previously
-- Founder of [Betterspace.uk] (acquired)  
-- Founder of [Flicktek.com]  
+- Founder of [Betterspace.uk](https://betterspace.uk) (acquired)  
+- Founder of [Flicktek.com] (closed)  
 - M.Sc. in Biomedical Engineering – Imperial College & Politecnico di Milano  
 
 ---
 
 ## 🚀 Innovations I Built
-- 🎵 AI model at Gotobeat to predict when concerts will sell out.  
+- 🎵 Algorithm at Gotobeat to predict when concerts will sell out.  
 - 📊 System at Yazr.ai enabling LLMs to reliably extract financial data from Excel.  
-- 🏢 Product at Betterspace that boosted company benefit adoption by 10x.  
+- 🏢 Product at Betterspace that boosted company benefit adoption by 1000x.  
 - ⌚ Patented Flicktek wristwatch sensor detecting finger gestures via tendon movements.  
 
 ---
