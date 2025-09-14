@@ -21,7 +21,7 @@ Building the Operating System for live concerts using automation, AI, and data t
 ---
 
 ## 🎨 Interests
-Data and AI in medicine (sensors and visrtual cell) • Tech for rights & freedom (privacy, blockchain and self hosting) • Music • Art • Design • Shoemaking • Economics • Health • Happiness  
+Data and AI in medicine (sensors and virtual cell) • Tech for rights & freedom (privacy, blockchain and self hosting) • Music • Art • Design • Shoemaking • Economics • Health • Happiness  
 
 ---
 
