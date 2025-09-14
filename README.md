@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Alfredo 👋
+## 🎸 CTO at Gotobeat.com
+We are building the Operating System for live concerts. We use automation, AI, data and machine learning to organize more and better live concerts.
 
-<!--
-**Belfio/Belfio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Previously
+- Founder of Betterspace.uk [sold it]
+- Founder of Flicktek.com
+- M.Sc. in Biomedical Engineering from Imperial College and Politecnico di Milano
 
-Here are some ideas to get you started:
+## Innovations I built
+- At gotobeat I have built a new way to identify when a gig will sold out or not
+- For yazr.ai I built a system that allows LLMs to reliable extract financial data from Excel spreadsheet.
+- At Betterspace I built a product that increased company's benefit adoption of 1000x.
+- At Flicktek I patented a sensor for wrist watched that is able to identify finger gestures from the wrist tendons movements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌍 Based in London / Sardinia
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredobelfiori/)
+- 🚀 Biomedical & Software Engineer
