@@ -13,7 +13,12 @@ We are building the Operating System for live concerts. We use automation, AI, d
 - At Betterspace I built a product that increased company's benefit adoption of 1000x.
 - At Flicktek I patented a sensor for wrist watched that is able to identify finger gestures from the wrist tendons movements.
 
+## Interests
+- Usage of AI for advancing medicine
+- Usage of tech to guarantee rights and freedom
+- Music, art, design, shoe making, economics
 
-- 🌍 Based in London / Sardinia
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredobelfiori/)
+## :)
 - 🚀 Biomedical & Software Engineer
+- 🌍 Based in London and Sardinia
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredobelfiori/)
