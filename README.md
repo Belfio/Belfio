@@ -1,24 +1,31 @@
 # Hey, I'm Alfredo 👋
-## 🎸 CTO at Gotobeat.com
-We are building the Operating System for live concerts. We use automation, AI, data and machine learning to organize more and better live concerts.
 
-## Previously
-- Founder of Betterspace.uk [sold it]
-- Founder of Flicktek.com
-- M.Sc. in Biomedical Engineering from Imperial College and Politecnico di Milano
+## 🎸 [CTO at Gotobeat](https://www.gotobeat.com)
+Building the Operating System for live concerts using automation, AI, and data to make live music better, fairer, and more accessible.
 
-## Innovations I built
-- At gotobeat I have built a new way to identify when a gig will sold out or not
-- For yazr.ai I built a system that allows LLMs to reliable extract financial data from Excel spreadsheet.
-- At Betterspace I built a product that increased company's benefit adoption of 1000x.
-- At Flicktek I patented a sensor for wrist watched that is able to identify finger gestures from the wrist tendons movements.
+---
 
-## Interests
-- Usage of AI for advancing medicine
-- Usage of tech to guarantee rights and freedom
-- Music, art, design, shoe making, economics
+## 🔙 Previously
+- Founder of [Betterspace.uk] (acquired)  
+- Founder of [Flicktek.com]  
+- M.Sc. in Biomedical Engineering – Imperial College & Politecnico di Milano  
 
-## :)
-- 🚀 Biomedical & Software Engineer
-- 🌍 Based in London and Sardinia
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfredobelfiori/)
+---
+
+## 🚀 Innovations I Built
+- 🎵 AI model at Gotobeat to predict when concerts will sell out.  
+- 📊 System at Yazr.ai enabling LLMs to reliably extract financial data from Excel.  
+- 🏢 Product at Betterspace that boosted company benefit adoption by 10x.  
+- ⌚ Patented Flicktek wristwatch sensor detecting finger gestures via tendon movements.  
+
+---
+
+## 🎨 Interests
+AI in medicine • Tech for rights & freedom • Music • Art • Design • Shoemaking • Economics  
+
+---
+
+## 🙂
+- 🚀 Biomedical & Software Engineer  
+- 🌍 Based in London & Sardinia  
+- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/alfredobelfiori/)  
